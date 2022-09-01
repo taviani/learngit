@@ -1,4 +1,4 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/682a3341be12446881534acf5d2a0d57)](https://app.codacy.com/app/taviani/learngit?utm_source=github.com&utm_medium=referral&utm_content=taviani/learngit&utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/05ce11ccfd4b4e64817af5c96707bbcd)](https://www.codacy.com/gh/taviani/learngit/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=taviani/learngit&amp;utm_campaign=Badge_Grade)
 [![Build Status](https://travis-ci.org/taviani/learngit.svg?branch=master)](https://travis-ci.org/taviani/learngit)
 
 # learngit
