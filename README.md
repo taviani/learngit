@@ -11,4 +11,6 @@ Et pour le troisième on ajoute php, nginx et docker pour obtenir un beau build 
 
 ## how to use
 
-‘‘‘docker-compose up‘‘‘
+```php
+docker-compose up
+```
